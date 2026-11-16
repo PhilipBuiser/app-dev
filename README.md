@@ -20,6 +20,4 @@ A collection of my favorite movies and TV series, with links to their IMDb pages
 - [Daredevil: Born Again (2025–present)](https://www.imdb.com/title/tt18923754/)
 - [Breaking Bad (2008–2013)](https://www.imdb.com/title/tt0903747/)
 
-## Sources
 
-All title links go to IMDb. Movie poster images should be added to `assets/posters/`.
