@@ -6,11 +6,11 @@ A collection of my favorite movies and TV series, with links to their IMDb pages
 
 | Poster | Title |
 |---|---|
-| <img src="assets/posters/wargames.jpg" width="140" alt="WarGames poster"> | **[WarGames (1983)](https://www.imdb.com/title/tt0086567/)** |
-| <img src="assets/posters/interstellar.jpg" width="140" alt="Interstellar poster"> | **[Interstellar (2014)](https://www.imdb.com/title/tt0816692/)** |
-| <img src="assets/posters/tenet.jpg" width="140" alt="Tenet poster"> | **[Tenet (2020)](https://www.imdb.com/title/tt6723592/)** |
-| <img src="assets/posters/blade-runner-2049.jpg" width="140" alt="Blade Runner 2049 poster"> | **[Blade Runner 2049 (2017)](https://www.imdb.com/title/tt1856101/)** |
-| <img src="assets/posters/fight-club.jpg" width="140" alt="Fight Club poster"> | **[Fight Club (1999)](https://www.imdb.com/title/tt0137523/)** |
+| ![alt text](WarGames.jpg) | **[WarGames (1983)](https://www.imdb.com/title/tt0086567/)** |
+| ![alt text](Interstellar.jpg) | **[Interstellar (2014)](https://www.imdb.com/title/tt0816692/)** |
+| ![alt text](Tenet.jpg) | **[Tenet (2020)](https://www.imdb.com/title/tt6723592/)** |
+| ![alt text](BladeRunner2049.jpg) | **[Blade Runner 2049 (2017)](https://www.imdb.com/title/tt1856101/)** |
+| ![alt text](FightClub.jpg) | **[Fight Club (1999)](https://www.imdb.com/title/tt0137523/)** |
 
 ## Favorite Series
 
